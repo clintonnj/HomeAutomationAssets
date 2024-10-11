@@ -1,0 +1,112 @@
+{
+    "automationCandidates": [
+      {
+        "id": "H001",
+        "name": "Room light",
+        "group": "Lights",
+        "icon": "light",
+        "board": "esp1",
+        "states": [
+          0,
+          1
+        ],
+        "previousState": 1,
+        "currentState": 0,
+        "initialState": 0,
+        "processing": {
+          "type": "direct",
+          "gpiopin": 5
+        }
+      },
+      {
+        "id": "H002",
+        "name": "Hall light",
+        "group": "Lights",
+        "icon": "light",
+        "board": "esp1",
+        "states": [
+          0,
+          1
+        ],
+        "previousState": 1,
+        "currentState": 0,
+        "initialState": 0,
+        "processing": {
+          "type": "direct",
+          "gpiopin": 5
+        }
+      },
+      {
+        "id": "H003",
+        "name": "Hall curtain",
+        "group": "Curtains",
+        "icon": "curtain",
+        "board": "esp1",
+        "states": [
+          0,
+          1
+        ],
+        "previousState": 1,
+        "currentState": 0,
+        "initialState": 0,
+        "processing": {
+          "type": "direct",
+          "gpiopin": 5
+        }
+      },
+      {
+        "id": "H004",
+        "name": "Gate 1",
+        "group": "Doors",
+        "icon": "door",
+        "board": "esp1",
+        "states": [
+          0,
+          1
+        ],
+        "previousState": 1,
+        "currentState": 0,
+        "initialState": 0,
+        "processing": {
+          "type": "direct",
+          "gpiopin": 5
+        }
+      },
+      {
+        "id": "H005",
+        "name": "Gate 2",
+        "group": "Doors",
+        "icon": "door",
+        "board": "esp1",
+        "states": [
+          0,
+          1
+        ],
+        "previousState": 1,
+        "currentState": 0,
+        "initialState": 0,
+        "processing": {
+          "type": "direct",
+          "gpiopin": 5
+        }
+      },
+      {
+        "id": "H006",
+        "name": "Garden pump",
+        "group": "Pumps",
+        "icon": "pump",
+        "board": "esp1",
+        "states": [
+          0,
+          1
+        ],
+        "previousState": 1,
+        "currentState": 0,
+        "initialState": 0,
+        "processing": {
+          "type": "direct",
+          "gpiopin": 5
+        }
+      }
+    ]
+  }
