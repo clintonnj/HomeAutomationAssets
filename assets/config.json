@@ -6,6 +6,7 @@
         "group": "Lights",
         "icon": "light",
         "board": "esp1",
+        "location": "Living Room",
         "states": [
           0,
           1
@@ -24,6 +25,7 @@
         "group": "Lights",
         "icon": "light",
         "board": "esp1",
+        "location": "Living Room",
         "states": [
           0,
           1
@@ -42,6 +44,7 @@
         "group": "Curtains",
         "icon": "curtain",
         "board": "esp1",
+        "location": "Courtyard",
         "states": [
           0,
           1
@@ -60,6 +63,7 @@
         "group": "Doors",
         "icon": "door",
         "board": "esp1",
+        "location": "Gate",
         "states": [
           0,
           1
@@ -78,6 +82,7 @@
         "group": "Doors",
         "icon": "door",
         "board": "esp1",
+        "location": "Gate",
         "states": [
           0,
           1
@@ -96,6 +101,7 @@
         "group": "Pumps",
         "icon": "pump",
         "board": "esp1",
+        "location": "Outside",
         "states": [
           0,
           1
